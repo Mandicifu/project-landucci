@@ -25,14 +25,12 @@ p:hover {
 .left {
 		width: 45%;
 		height: 45%;
-		border: 1px solid black;
 		float: left;
 }
 
 .right {
 	width: 45%;
 	height: 45%;
-	border: 1px solid black;
 	float: right;
 }
 
